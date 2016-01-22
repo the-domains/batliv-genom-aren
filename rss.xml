@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Båtliv genom åren]]></title>
         <description><![CDATA[Båtliv genom åren]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/batliv-genom-aren/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 21:15:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 21:26:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/batliv-genom-aren/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fe283d7-9e8a-4b76-a75a-9fa72056cd91.jpg">]]></description>
+            <link>https://thegrid.ai/batliv-genom-aren/e7499302-0482-4368-9b32-ee87c04cd7eb/index.html</link>
+            <guid isPermaLink="false">e7499302-0482-4368-9b32-ee87c04cd7eb</guid>
+            <pubDate>Fri, 22 Jan 2016 21:26:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8690775-9127-4dc3-9226-7df3db0903d9.JPG">]]></description>
-            <link>undefined98b64178-00fd-47c2-8347-42b0edcc8189/index.html</link>
+            <link>https://thegrid.ai/batliv-genom-aren/98b64178-00fd-47c2-8347-42b0edcc8189/index.html</link>
             <guid isPermaLink="false">98b64178-00fd-47c2-8347-42b0edcc8189</guid>
             <pubDate>Fri, 22 Jan 2016 21:15:36 GMT</pubDate>
         </item>
